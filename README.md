@@ -2,7 +2,7 @@ Outline of goals and draft of versions
 
 End goal: A movie suggestion application that suggests movies on user data, or group collected data, that suggests movies through databases such as movielens and imdb, and directs users towards an appropriate streaming service.
 
-Basic process map
+Basic process milestone map
 .01 - Movie suggestion through genres, ratings, actors/actresses, directors, producers, etc, through dictionary databases. Returns basic suggestions in terminal. Primarily building dictionaries.
 
 .02 - Basic UI- Integrate a module that would allow a basic UI and for future customization that populates a list of movie suggestions based on filters associated with the dictionary.

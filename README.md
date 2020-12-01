@@ -13,7 +13,7 @@ Basic process map
 
 .05 - Allow in application ratings and create a "interested" button for group watching ease of use.
 
-.06 - Quote finder!
+.06 - Quote finder! tried to find the quotes from movies
 
 Known Challenges
 
